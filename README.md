@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenArunski
-- 👀 I’m interested in music, software design and development, board games, and bicycling
+- 👀 I’m interested in music, software design and development, and bicycling
 
 <!---
 BenArunski/BenArunski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
